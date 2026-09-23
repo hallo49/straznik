@@ -1,0 +1,6 @@
+{
+  "name": "straznik",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Publiczne narzędzie AI dla seniorów: sprawdza zdjęcia i teksty wiadomości pod kątem oszustw (na wnuczka, phishing, wyłudzenia danych)."
+}
